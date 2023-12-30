@@ -57,3 +57,14 @@ const car = {
 
 
     handleObject(obj);
+
+
+    const arra = [234,67,532,789]
+
+
+   function calcShop(...num1){
+    console.log(num1);
+
+   }
+
+   calcShop(arra);
