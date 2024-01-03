@@ -63,3 +63,9 @@ console.log(val);
 // })
 
 
+const values = coding.forEach((it)=>{
+  console.log(it);
+  return it
+})
+
+console.log(values);
